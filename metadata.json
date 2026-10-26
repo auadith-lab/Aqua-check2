@@ -1,0 +1,6 @@
+{
+  "name": "AquaCheck - Water Potability Predictor & Model Performance",
+  "description": "Intelligent water quality analyzer powered by Random Forest ML with a dedicated Performance Dashboard, interactive Confusion Matrix, threshold tuning, and comprehensive evaluation metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
